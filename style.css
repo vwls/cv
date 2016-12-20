@@ -159,10 +159,21 @@ section:last-child {
 
 .keySkills ul li {
 	margin-bottom: 3px;
+	margin-bottom: 20px;
+	font-size: 1em;
+	color: #444;
 }
 
-.industryList ul {
+.exhibitions {
 	list-style-type: none;
+	margin-top: 5px;
+}
+
+.exhibitions ul li {
+	margin-bottom: 3px;
+	margin-bottom: 20px;
+	font-size: 1em;
+	color: #444;
 }
 
 @media all and (min-width: 602px) and (max-width: 800px) {
